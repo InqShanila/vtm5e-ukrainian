@@ -24,7 +24,7 @@
     "systems": [
       {
         "id": "vtm5e",
-        "manifest": "https://github.com/Rayji96/foundry-V5/blob/main/system.json",
+        "manifest": "https://raw.githubusercontent.com/Rayji96/foundry-V5/main/system.json",
         "compatibility": {
           "minimum": "2.0.0",
           "verified": "2.0.2",
