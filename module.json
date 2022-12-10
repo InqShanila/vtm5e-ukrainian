@@ -1,0 +1,47 @@
+{
+    "id": "vtm5e-ukrainian",
+    "title": "VTM5e Ukrainian | Український переклад",
+    "description": "Модуль з перекладом на українську системи VTM5e",
+    "version": "0.0.1",
+    "library": "false",
+    "manifestPlusVersion": "0.0.1",
+    "compatibility": {
+        "minimum": 10,
+        "verified": 10,
+        "maximum": 11
+    },
+    "authors": [
+        {
+            "name": "Kem",
+            "email": "",
+            "url": ""
+        }
+    ],
+    "styles": [
+        "styles/main.css"
+    ],
+     "relationships": {
+        "systems": [
+        {
+          "id": "vtm5e",
+          "manifest": "https://raw.githubusercontent.com/Rayji96/foundry-V5/release/2.0.2/system.json",
+          "compatibility": {
+            "minimum": "2.0.0",
+            "verified": "2.0.2",
+            "maximum": "2.1.0"
+          }
+        }
+       ]
+     },
+    "languages": [
+    {
+      "lang": "uk",
+      "name": "Ukrainian",
+      "path": "lang/uk.json"
+    }
+  ],
+    "system": "vtm5e",
+    "systemVersion": "2.0.2",
+    "manifest": "",
+    "download": ""
+}

@@ -1,0 +1,31 @@
+@import "https://fonts.googleapis.com/css2?family=Martel:wght@400;800&family=Roboto:wght@300;400;500&family=Source+Serif+Pro:wght@300;400;600&display=swap";
+
+@font-face {
+    font-family: cormorantGaramond;
+    src: url("../fonts/CormorantGaramond-Light.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+}
+
+.vtm5e .window-content {
+    font-family: cormorantGaramond, sans-serif;
+}
+
+.vtm5e button.rollable,
+.vtm5e button.rollable-with-mod {
+    font-family: cormorantGaramond, sans-serif;
+}
+
+.vtm5e .sheet-header .profile-img-zone button {
+    font-family: cormorantGaramond, sans-serif;
+}
+
+.vtm5e .sheet-header .profile-img-zone h1 {
+    font-family: cormorantGaramond, sans-serif;
+}
+
+.roll-label {
+    font-family: Source Serif Pro, serif;
+    font-weight: bold;
+    font-size: 130%;
+}
