@@ -42,6 +42,6 @@
   ],
     "system": "vtm5e",
     "systemVersion": "2.0.2",
-    "manifest": "",
-    "download": ""
+  "manifest": "https://github.com/InqShanila/vtm5e-ukrainian/blob/main/module.json",
+  "download": "https://github.com/InqShanila/vtm5e-ukrainian/archive/refs/heads/main.zip"
 }
