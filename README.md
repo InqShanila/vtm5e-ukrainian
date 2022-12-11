@@ -3,6 +3,7 @@
 
 [![Foundry Shield 10]][Foundry URL]
 [![Version]][Version URL]
+[![MIT License]][MIT URL]
 
 Неофіційний український переклад системи World of Darkness 5e (vtm 5e, htr 5e) для Foundry VTT. Зміст модуля використувоє лише дозволені матеріали по ліцензії [Dark Pack][Dark Pack URL].
 
@@ -28,8 +29,8 @@
 [Dark Pack]: https://s3-eu-north-1.amazonaws.com/pdx-campaign-wp-data/uploads/sites/10/2021/10/05102936/darkpack_logo2-300x300.png
 [Dark Pack URL]: https://www.worldofdarkness.com/dark-pack
 
-[MIT License]: https://img.shields.io/badge/License-MIT-green
-[MIT URL]: https://github.com/Rayji96/foundry-V5/blob/main/LICENSE
+[MIT License]: https://img.shields.io/badge/License-MIT-green?style=flat-square
+[MIT URL]: https://github.com/InqShanila/vtm5e-ukrainian/blob/main/LICENSE.md
 
 [Ray Ji]: https://github.com/Rayji96
 
