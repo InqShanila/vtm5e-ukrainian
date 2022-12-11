@@ -15,7 +15,7 @@
 
 1.  Усередині екрану "Configuration and Setup" лаучера натисніть "Add-on Modules".
 2.  Натисніть "Install Module".
-3.  В полі "Manifest URL" вставте наступний URL: https://raw.githubusercontent.com/InqShanila/vtm5e-ukrainian/main/module.json або скористайтесь пошуком по назві модуля.
+3.  В полі "Manifest URL" вставте наступний URL: https://raw.githubusercontent.com/InqShanila/vtm5e-ukrainian/main/module.json або скористайтесь пошуком по назві модуля "Translation: Ukrainian [WoD 5e]".
 4.  Натисніть "Install" і дочекайтеся завершення встановлення.
 5.  Увімкніть модуль у налаштуваннях "Manage Module".
 6.  В налаштуваннях "Configure Settings" у вкладці "Core" встановіть "Language Preference" на українську мову (Ukrainian).
