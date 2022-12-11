@@ -12,8 +12,7 @@
   "authors": [
     {
       "name": "Kem",
-      "email": "",
-      "url": ""
+      "discord": "Kem#4667"
     }
   ],
   "styles": [
@@ -39,8 +38,6 @@
       "path": "lang/uk.json"
     }
   ],
-  "system": "vtm5e",
-  "systemVersion": "2.0.2",
   "manifest": "https://github.com/InqShanila/vtm5e-ukrainian/blob/main/module.json",
   "download": "https://github.com/InqShanila/vtm5e-ukrainian/archive/refs/heads/main.zip"
 }
