@@ -4,7 +4,7 @@
 [![Foundry Shield 10]][Foundry URL]
 [![Version]][Version URL]
 
-Не офіційний український переклад системи World of Darkness 5e (vtm 5e, htr 5e) для Foundry VTT. Зміст модуля використувоє лише дозволені матеріали по ліцензії [Dark Pack][Dark Pack URL].
+Неофіційний український переклад системи World of Darkness 5e (vtm 5e, htr 5e) для Foundry VTT. Зміст модуля використувоє лише дозволені матеріали по ліцензії [Dark Pack][Dark Pack URL].
 
 Дяка [Ray Ji] та всім причетним за створення системи [World of Darkness 5e][World of Darkness 5e git].
 
