@@ -26,9 +26,8 @@
 
 
 # Інші переклади українською
-[Foundry VTT core][Foundry VTT core ua]
-
-[DndD 5e][Dnd 5e ua]
+-[Foundry VTT core][Foundry VTT core ua]
+-[DndD 5e][Dnd 5e ua]
 
 [Foundry Shield 10]: https://img.shields.io/badge/Foundry-10-informational?style=flat-square
 [Foundry URL]: https://foundryvtt.com
