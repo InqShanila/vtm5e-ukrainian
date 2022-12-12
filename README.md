@@ -25,10 +25,10 @@
 Будь який фідбек по перекладу, оформлення і т.д., а також інші пропозиції можна надсилати у діскорд Kem#4667.
 
 
-# Інші проекти
-[Foundry VTT core][Foundry VTT core ua] переклад українською
+# Інші переклади українською
+[Foundry VTT core][Foundry VTT core ua]
 
-[DndD 5e][Dnd 5e ua] переклад українською
+[DndD 5e][Dnd 5e ua]
 
 [Foundry Shield 10]: https://img.shields.io/badge/Foundry-10-informational?style=flat-square
 [Foundry URL]: https://foundryvtt.com
