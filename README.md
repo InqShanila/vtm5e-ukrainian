@@ -20,6 +20,16 @@
 5.  Увімкніть модуль у налаштуваннях "Manage Module".
 6.  В налаштуваннях "Configure Settings" у вкладці "Core" встановіть "Language Preference" на українську мову (Ukrainian).
 
+
+# Зворотній зв'язок
+Будь який фідбек по перекладу, оформлення і т.д., а також інші пропозиції можна надсилати у діскорд Kem#4667.
+
+
+# Інші проекти
+[Foundry VTT core][Foundry VTT core ua] переклад українською
+
+[DndD 5e][Dnd 5e ua] переклад українською
+
 [Foundry Shield 10]: https://img.shields.io/badge/Foundry-10-informational?style=flat-square
 [Foundry URL]: https://foundryvtt.com
 
@@ -33,6 +43,10 @@
 [MIT URL]: https://github.com/InqShanila/vtm5e-ukrainian/blob/main/LICENSE.md
 
 [Ray Ji]: https://github.com/Rayji96
+[GMonlineua]: https://github.com/GMonlineua
 
 [World of Darkness 5e git]: https://github.com/Rayji96/foundry-V5
 [World of Darkness 5e foundry]: https://foundryvtt.com/packages/vtm5e
+
+[Foundry VTT core ua]: https://github.com/roleplaysolovinoiu/Foundryvtt-ua
+[Dnd 5e ua]: https://github.com/GMonlineua/Foundry-ua-dnd5e
