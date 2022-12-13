@@ -33,7 +33,7 @@
 [Foundry URL]: https://foundryvtt.com
 
 [Version]: https://img.shields.io/badge/Version-1.0.0-orange?style=flat-square
-[Version URL]: https://foundryvtt.com
+[Version URL]: https://foundryvtt.com/packages/vtm5e-ukrainian
 
 [Dark Pack]: https://s3-eu-north-1.amazonaws.com/pdx-campaign-wp-data/uploads/sites/10/2021/10/05102936/darkpack_logo2-300x300.png
 [Dark Pack URL]: https://www.worldofdarkness.com/dark-pack
