@@ -2,21 +2,17 @@
   "id": "vtm5e-ukrainian",
   "title": "Translation: Ukrainian [WoD 5e]",
   "description": "Неофіційний український переклад системи World of Darkness 5e (vtm 5e, htr 5e) для Foundry VTT",
-  "version": "1.1.0",
-  "library": "false",
+  "version": "1.1.1",
   "compatibility": {
-    "minimum": 10,
-    "verified": 10,
-    "maximum": 11
+    "minimum": "10",
+    "verified": "11"
   },
   "authors": [
     {
       "name": "Kem",
-      "discord": "Kem#4667"
+      "discord": "kemrian",
+      "flags": {}
     }
-  ],
-  "styles": [
-    "styles/main.css"
   ],
   "relationships": {
     "systems": [
@@ -25,9 +21,10 @@
         "manifest": "https://raw.githubusercontent.com/Rayji96/foundry-V5/main/system.json",
         "compatibility": {
           "minimum": "2.0.0",
-          "verified": "2.0.2",
-          "maximum": "2.1.0"
-        }
+          "verified": "2.1.1",
+          "maximum": "2.2.0"
+        },
+        "type": "system"
       }
     ]
   },
@@ -35,7 +32,8 @@
     {
       "lang": "uk",
       "name": "Українська (Ukrainian)",
-      "path": "lang/uk.json"
+      "path": "lang/uk.json",
+      "flags": {}
     }
   ],
   "url": "https://github.com/InqShanila/vtm5e-ukrainian",
