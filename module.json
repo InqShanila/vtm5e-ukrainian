@@ -21,8 +21,8 @@
         "manifest": "https://raw.githubusercontent.com/Rayji96/foundry-V5/main/system.json",
         "compatibility": {
           "minimum": "2.0.0",
-          "verified": "2.1.1",
-          "maximum": "2.2.0"
+          "verified": "3.1.0",
+          "maximum": "3.2.0"
         },
         "type": "system"
       }
